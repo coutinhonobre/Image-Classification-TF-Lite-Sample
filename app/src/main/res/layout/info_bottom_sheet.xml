@@ -30,6 +30,7 @@
     <androidx.appcompat.widget.LinearLayoutCompat
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:layout_marginBottom="@dimen/bottom_sheet_peek_height"
         android:orientation="vertical">
 
         <!-- Chevron indicating that the bottom sheet is expandable -->
